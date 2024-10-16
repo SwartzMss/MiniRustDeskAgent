@@ -1,0 +1,11 @@
+[package]
+name = "clipboard"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hbb_common = { path = "../hbb_common" }
+
+
+[build-dependencies]
+cc = "1.0"
