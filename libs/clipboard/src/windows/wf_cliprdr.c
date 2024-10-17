@@ -35,7 +35,7 @@
 
 #include <windef.h>
 
-#include "cliprdr.h"
+#include "../cliprdr.h"
 
 #define CLIPRDR_SVC_CHANNEL_NAME "cliprdr"
 
